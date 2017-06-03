@@ -1,0 +1,22 @@
+h1,
+h2,
+p {
+font-family: verdana;
+color: white;
+text-align: center;
+}
+
+h4 {
+  color:turquoise;
+  font-family: verdana;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 70%;
+}
+
+body {
+  background: black;
+}
