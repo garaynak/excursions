@@ -1,0 +1,37 @@
+h1,
+h2,
+p {
+font-family: verdana;
+color: white;
+text-align: center;
+font-weight: normal;
+}
+
+body {
+  padding:50px;
+}
+
+h1{
+  font-size: normal;
+}
+h4 {
+  color:aquamarine;
+  font-family: verdana;
+  font-size:16px;
+  text-align: center;
+}
+img,
+video {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+  background: black;
+}
+
+#travelguide, p {
+  color: grey;
+  padding: 5px;
+}
